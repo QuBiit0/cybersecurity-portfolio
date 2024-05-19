@@ -1,7 +1,5 @@
 ========================================================
-           
-## Proyectos de Ciberseguridad en Python
-
+           ## Proyectos de Ciberseguridad en Python
 ========================================================
 
 Este repositorio contiene una serie de proyectos en Python relacionados con la ciberseguridad. Cada proyecto está diseñado para demostrar habilidades en diferentes aspectos de la seguridad informática, desde el escaneo de puertos hasta la detección de intrusiones.
