@@ -1,0 +1,24 @@
+# Proyecto 1: Escáner de Puertos
+requests==2.26.0
+
+# Proyecto 2: Recolector de Información WHOIS
+python-whois==0.7.3
+
+# Proyecto 3: Fuerza Bruta SSH
+paramiko==2.8.0
+
+
+# Proyecto 4: Exploit de Vulnerabilidad Web (SQL Injection)
+requests==2.26.0
+
+# Proyecto 5: Sniffer de Red
+hashlib
+
+# Proyecto 6: Phishing
+mimetex==0.9.8
+
+# Proyecto 7: Escáner de Vulnerabilidades Web
+scapy==2.4.5
+
+# Proyecto 10: Simulador de Ataque de Phishing
+smtplib==3.9.0
